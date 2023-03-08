@@ -1,4 +1,4 @@
-package rak8nn
+package github.com/whoateallthepi/rak8nn
 
 import (
 	"bytes"
